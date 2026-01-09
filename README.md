@@ -1,15 +1,122 @@
-# Rediseño Homepage BCN Global
+# BCN Global – Sitio Web Corporativo
 
-## Optimización de la conversión y performance UX
+## Contexto
+BCN Global es un **proyecto conceptual de sitio web corporativo**, orientado a entornos B2B y de servicios profesionales.
 
-Proyecto: Se rediseña la homepage de BCN Global, aplicando criterios de diseño end-to-end, en los cuales se optimiza la jerarquía, estructura, arquitectura y performance de la homepage.
+El proyecto se enfoca en **claridad, jerarquía visual y organización de contenido**, elementos clave para comunicar credibilidad y profesionalismo.
 
-Problema de la versión inicial: Fricción cognitiva y flujo errático de decisiones.
+---
 
-Propuesta: Se mejora la estructura y jerarquía, estableciendo un Design System de componentes, variables, instancias, átomos y moléculas.
+## Objetivos
+- Presentar servicios de forma clara y estructurada
+- Reforzar la credibilidad de marca mediante decisiones UI
+- Mejorar la jerarquía y escaneabilidad del contenido
+- Construir una base frontend limpia y mantenible
 
-Propuesta de Valor: Se alinea el criterio UX con el modelo de negocios de BCN Global, entendiendolo como un proyecto B2B Corporativo.
+---
 
-KPIs: Tasa de conversión - CTR - Tiempo de permanencia
+## Rol
+**Diseñador UX/UI & Implementación Frontend**
 
-Resultados: Estructura definida y consistente del contenido. Aplicación de responsive por breakpoint (desktop - tablet - mobile). Componentes completamente reutilizables y escalables alineados a implementación en React (Frontend)
+Responsabilidades:
+- Decisiones de diseño UI
+- Definición de layout y jerarquía visual
+- Maquetación HTML/CSS
+- Organización de assets
+- Traducción de diseño a código
+
+---
+
+## Criterios UX/UI
+- Jerarquía clara de secciones
+- Uso equilibrado de espacio en blanco
+- Tipografía como eje estructural
+- Consistencia visual y de espaciado
+- Enfoque en legibilidad y accesibilidad
+
+---
+
+## Stack Frontend
+- HTML5
+- CSS3
+- Diseño responsive
+- Git & GitHub
+
+---
+
+## Resultado
+El resultado es un sitio:
+- Ligero
+- Escalable
+- Fácil de mantener
+- Adecuado para contextos B2B, corporativos y de servicios
+
+---
+
+## Aprendizajes clave
+- Un buen diseño B2B prioriza claridad sobre ornamentación
+- La jerarquía visual guía la comprensión del negocio
+- Código limpio refleja pensamiento de diseño estructurado
+
+
+
+
+
+# BCN Global – Corporate Website
+
+## Context
+BCN Global is a **conceptual corporate website** created to showcase a clean, structured, and scalable UI for a B2B environment.
+
+The project focuses on **clarity, hierarchy, and content organization**, aligned with professional service-oriented businesses.
+
+---
+
+## Objectives
+- Present services clearly and concisely
+- Strengthen brand credibility through UI decisions
+- Improve content hierarchy and scannability
+- Build a clean and maintainable frontend structure
+
+---
+
+## Role
+**UX/UI Designer & Frontend Implementation**
+
+Responsibilities:
+- UI design decisions
+- Layout and visual hierarchy
+- HTML/CSS structure
+- Asset organization
+- Design-to-code translation
+
+---
+
+## UX/UI Criteria
+- Clear sectioning and information hierarchy
+- Visual balance and whitespace
+- Typography-driven layout
+- Consistent spacing and grid usage
+- Accessibility-oriented contrast decisions
+
+---
+
+## Frontend Stack
+- HTML5
+- CSS3
+- Responsive layout
+- Git & GitHub
+
+---
+
+## Outcome
+The result is a **lightweight, readable, and scalable layout** suitable for:
+- B2B services
+- Corporate websites
+- Professional portfolios
+
+---
+
+## Key Takeaways
+- Good UI is often about subtraction, not addition
+- Structure and hierarchy are critical in B2B contexts
+- Clean code reflects clear design thinking
